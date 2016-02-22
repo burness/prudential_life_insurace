@@ -1,3 +1,4 @@
+## notes in the Prudential Life Insurace
 public score 0.67以上:
 voting_final2.csv
 voting_final4.txt
